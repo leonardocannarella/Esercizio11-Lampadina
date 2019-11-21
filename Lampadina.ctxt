@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Lampadina
+comment0.text=\r\n\ Lampadina\r\n\ \r\n\ @author\ (Leonardo\ Cannarella)\ \r\n\ @version\ (1.0\ -\ 21/11/2019)\r\n
+comment1.params=codiceColore\ lumMax
+comment1.target=Lampadina(int,\ int)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=cod
+comment2.target=void\ setCodiceColore(int)
+comment3.params=lum
+comment3.target=void\ setLumMax(int)
+comment4.params=segno\ n
+comment4.target=java.lang.String\ varLum(java.lang.String,\ int)
+comment5.params=
+comment5.target=java.lang.String\ lightOn()
+comment6.params=
+comment6.target=java.lang.String\ lightOff()
+comment7.params=
+comment7.target=java.lang.String\ getColore()
+comment8.params=
+comment8.target=java.lang.String\ getStato()
+comment9.params=
+comment9.target=java.lang.String\ getLuminosita()
+numComments=11

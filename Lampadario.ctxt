@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Lampadario
+comment0.text=\r\n\ Lampadario\r\n\ \r\n\ @author\ (Leonardo\ Cannarella)\ \r\n\ @version\ (1.0\ -\ 21/11/2019)\r\n
+comment1.params=
+comment1.target=Lampadario()
+comment2.params=a1\ a2\ a3
+comment2.target=java.lang.String\ inserisciLamp(Lampadina,\ Lampadina,\ Lampadina)
+comment3.params=
+comment3.target=java.lang.String\ togliLamp()
+comment4.params=n
+comment4.target=java.lang.String\ accendi(int)
+comment5.params=n
+comment5.target=java.lang.String\ spegni(int)
+numComments=6

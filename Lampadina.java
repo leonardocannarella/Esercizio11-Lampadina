@@ -123,7 +123,10 @@ public class Lampadina
     
     public String getLuminosita()
     {
-        return "Luminosità: " + luminosita + "\n";
+        if(stato==true)
+            return "Luminosità: " + luminosita + "\n";
+        else
+            return "La lampadina è spenta!" + "\n";
     }
     
     public String toString()

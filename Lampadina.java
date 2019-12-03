@@ -22,7 +22,7 @@ public class Lampadina
     
     public void setCodiceColore(int cod)
     {
-        if((cod>0)&&(cod<=5))
+        if((cod>0)&&(cod<5))
             codiceColore=cod;
         else if(cod<1)
             codiceColore=1;
